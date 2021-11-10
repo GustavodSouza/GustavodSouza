@@ -1,7 +1,5 @@
-### Desenvolvedor Front-end Angular/Vue js
+<img src="https://c4.wallpaperflare.com/wallpaper/811/204/975/minimalism-code-wallpaper-preview.jpg" alt="Imagem" />
 
-- 💼 Desenvolvedor de Software na empresa Meta
-- 🎓 Formado em Sistemas para Internet na UFSM
-
-<img src="https://i.pinimg.com/originals/41/82/a9/4182a9dd330c6442c4a1fbc78274d838.png" alt="imagem" />
+<h3>Olá, sou Gustavo!</h3>
+<h3>Desenvolvedor de web, formado em Tecnologia em Sistemas para Internet na Universidade Federal de Santa Maria (UFSM). Trabalho na área á 2 anos, sendo 1 ano como estagiário focado em Front-end utilizando o Vue Js e 1 ano como Desenvolvedor Júnior utilizando Angular</h3>
 
