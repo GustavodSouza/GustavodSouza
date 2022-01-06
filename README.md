@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavodSouza&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavodSouza&theme=radical)](https://git.io/streak-stats)
 
-<h2>Olá, sou o Gustavo!</h2>
+<h2>Seja bem-vindo(a)!</h2>
 <h3>- Desenvolvedor Front-end | Angular | Vue Js</h3>
 <h3>- Formado em Tecnologia em Sistemas para Internet na Universidade Federal de Santa Maria (UFSM).</h3>
 <h3 align="left">Contato:</h3>
